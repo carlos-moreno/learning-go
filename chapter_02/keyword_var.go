@@ -7,7 +7,7 @@ import (
 var y = 10
 
 func main() {
-	z := 20
+	z := 30
 	qualquercoisa(z)
 }
 
