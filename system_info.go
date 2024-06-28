@@ -8,6 +8,6 @@ import (
 
 func main() {
 	fmt.Println(runtime.GOOS)
-	time.Sleep(time.Second * 12)
+	time.Sleep(time.Second * 7)
 	fmt.Println(runtime.GOARCH)
 }
